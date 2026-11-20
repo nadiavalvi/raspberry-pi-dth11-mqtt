@@ -1,0 +1,17 @@
+# Entornos virtuales
+dht-env/
+venv/
+.venv/
+# Python
+__pycache__/
+*.pyc
+# Secretos y configuración local
+.env
+*.pem
+*.key
+id_ed25519*
+# Datos generados
+*.csv
+# Sistema
+.DS_Store
+Thumbs.db

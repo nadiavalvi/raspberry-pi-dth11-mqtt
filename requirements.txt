@@ -1,0 +1,3 @@
+dht11
+RPi.GPIO
+paho-mqtt>=2.0
